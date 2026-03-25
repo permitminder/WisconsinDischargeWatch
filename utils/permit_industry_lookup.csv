@@ -1,0 +1,1264 @@
+PERMIT_NUMBER,NAICS_CODE,NAICS_DESC,SIC_CODE,SIC_DESC
+WI0000027,,,2023,"Dry, Condensed, Evaporated Products"
+WI0000035,,,2026,Fluid Milk
+WI0000108,,,3625,Relays And Industrial Controls
+WI0000132,,,2023,"Dry, Condensed, Evaporated Products"
+WI0000159,,,2022,"Cheese, Natural And Processed"
+WI0000272,,,3325,Steel Foundries
+WI0000345,,,2033,Canned Fruits And Vegetables
+WI0000485,,,2033,Canned Fruits And Vegetables
+WI0000493,,,3322,Malleable Iron Foundries
+WI0000507,,,3321,Gray And Ductile Iron Foundries
+WI0000531,,,2611,Pulp Mills
+WI0000540,,,2621,Paper Mills
+WI0000680,,,2621,Paper Mills
+WI0000698,,,2679,Converted Paper Products
+WI0000728,,,3462,Iron And Steel Forgings
+WI0000744,,,2082,Malt Beverages
+WI0000752,,,2621,Paper Mills
+WI0000761,,,3321,Gray And Ductile Iron Foundries
+WI0000795,,,3621,Motors And Generators
+WI0000817,,,2033,Canned Fruits And Vegetables
+WI0000825,,,2611,Pulp Mills
+WI0000914,,,4911,Electric Services
+WI0000922,,,4911,Electric Services
+WI0000931,,,4911,Electric Services
+WI0000957,,,4911,Electric Services
+WI0000965,,,4911,Electric Services
+WI0000973,,,2611,Pulp Mills
+WI0000990,,,2611,Pulp Mills
+WI0001031,,,2621,Paper Mills
+WI0001040,,,3471,Plating And Polishing
+WI0001163,,,2033,Canned Fruits And Vegetables
+WI0001236,,,2023,"Dry, Condensed, Evaporated Products"
+WI0001261,,,2621,Paper Mills
+WI0001309,,,3471,Plating And Polishing
+WI0001341,,,2621,Paper Mills
+WI0001449,,,2022,"Cheese, Natural And Processed"
+WI0001571,,,4911,Electric Services
+WI0001589,,,4911,Electric Services
+WI0001635,,,4939,Combination Utilities
+WI0001732,,,2021,Creamery Butter
+WI0001759,,,2013,Sausages And Other Prepared Meats
+WI0001848,,,2621,Paper Mills
+WI0001945,,,3711,Motor Vehicles And Car Bodies
+WI0001961,,,4911,Electric Services
+WI0001996,,,3471,Plating And Polishing
+WI0002003,,,2023,"Dry, Condensed, Evaporated Products"
+WI0002020,,,4911,Electric Services
+WI0002038,,,2869,Industrial Organic Chemicals
+WI0002089,,,3519,Internal Combustion Engines
+WI0002135,,,2026,Fluid Milk
+WI0002160,,,2033,Canned Fruits And Vegetables
+WI0002267,,,2033,Canned Fruits And Vegetables
+WI0002381,,,4911,Electric Services
+WI0002402,,,4911,Electric Services
+WI0002488,,,0273,Animal Aquaculture
+WI0002518,,,2047,Dog And Cat Food
+WI0002534,,,2099,Food Preparations
+WI0002585,,,0921,Fish Hatcheries And Preserves
+WI0002658,,,2033,Canned Fruits And Vegetables
+WI0002666,,,2033,Canned Fruits And Vegetables
+WI0002739,,,4939,Combination Utilities
+WI0002780,,,4911,Electric Services
+WI0002810,,,2611,Pulp Mills
+WI0002836,,,2033,Canned Fruits And Vegetables
+WI0002887,,,4911,Electric Services
+WI0002984,,,2021,Creamery Butter
+WI0003018,,,2022,"Cheese, Natural And Processed"
+WI0003026,,,2611,Pulp Mills
+WI0003034,,,2631,Paperboard Mills
+WI0003077,,,2611,Pulp Mills
+WI0003085,,,2911,Petroleum Refining
+WI0003107,,,2023,"Dry, Condensed, Evaporated Products"
+WI0003131,,,4911,Electric Services
+WI0003191,,,2022,"Cheese, Natural And Processed"
+WI0003204,,,2611,Pulp Mills
+WI0003212,,,2621,Paper Mills
+WI0003239,,,4911,Electric Services
+WI0003379,,,2611,Pulp Mills
+WI0003450,,,2861,Gum And Wood Chemicals
+WI0003468,,,2621,Paper Mills
+WI0003476,,,2026,Fluid Milk
+WI0003557,,,2033,Canned Fruits And Vegetables
+WI0003565,,,2812,Alkalies And Chlorine
+WI0003611,,,2611,Pulp Mills
+WI0003620,,,2611,Pulp Mills
+WI0003662,,,2022,"Cheese, Natural And Processed"
+WI0003671,,,2611,Pulp Mills
+WI0003735,,,2435,Hardwood Veneer And Plywood
+WI0003760,,,2022,"Cheese, Natural And Processed"
+WI0003859,,,2023,"Dry, Condensed, Evaporated Products"
+WI0003875,,,2023,"Dry, Condensed, Evaporated Products"
+WI0003883,,,2023,"Dry, Condensed, Evaporated Products"
+WI0003891,,,2033,Canned Fruits And Vegetables
+WI0004162,,,0921,Fish Hatcheries And Preserves
+WI0004171,,,0921,Fish Hatcheries And Preserves
+WI0004189,,,0921,Fish Hatcheries And Preserves
+WI0004197,,,0921,Fish Hatcheries And Preserves
+WI0004201,,,0921,Fish Hatcheries And Preserves
+WI0004316,,,2082,Malt Beverages
+WI0004413,,,2022,"Cheese, Natural And Processed"
+WI0004421,,,2821,Plastics Materials And Resins
+WI0004499,,,2022,"Cheese, Natural And Processed"
+WI0020001,,,4952,Sewerage Systems
+WI0020044,,,4952,Sewerage Systems
+WI0020061,,,4952,Sewerage Systems
+WI0020095,,,4952,Sewerage Systems
+WI0020109,,,4952,Sewerage Systems
+WI0020117,,,4952,Sewerage Systems
+WI0020125,,,4952,Sewerage Systems
+WI0020133,,,4952,Sewerage Systems
+WI0020141,,,4952,Sewerage Systems
+WI0020150,,,4952,Sewerage Systems
+WI0020176,,,4952,Sewerage Systems
+WI0020184,,,4952,Sewerage Systems
+WI0020192,,,4952,Sewerage Systems
+WI0020214,,,4952,Sewerage Systems
+WI0020222,,,4952,Sewerage Systems
+WI0020231,,,4952,Sewerage Systems
+WI0020249,,,4952,Sewerage Systems
+WI0020257,,,4952,Sewerage Systems
+WI0020265,,,4952,Sewerage Systems
+WI0020273,,,4952,Sewerage Systems
+WI0020281,,,4952,Sewerage Systems
+WI0020290,,,4952,Sewerage Systems
+WI0020303,,,4952,Sewerage Systems
+WI0020311,,,4952,Sewerage Systems
+WI0020338,,,4952,Sewerage Systems
+WI0020346,,,4952,Sewerage Systems
+WI0020354,,,4952,Sewerage Systems
+WI0020362,,,4952,Sewerage Systems
+WI0020371,,,4952,Sewerage Systems
+WI0020389,,,4952,Sewerage Systems
+WI0020397,,,4952,Sewerage Systems
+WI0020419,,,4952,Sewerage Systems
+WI0020427,,,4952,Sewerage Systems
+WI0020435,,,4952,Sewerage Systems
+WI0020443,,,4952,Sewerage Systems
+WI0020451,,,4952,Sewerage Systems
+WI0020460,,,4952,Sewerage Systems
+WI0020478,,,4952,Sewerage Systems
+WI0020486,,,4952,Sewerage Systems
+WI0020494,,,4952,Sewerage Systems
+WI0020508,,,4952,Sewerage Systems
+WI0020516,,,4952,Sewerage Systems
+WI0020532,,,4952,Sewerage Systems
+WI0020559,,,4952,Sewerage Systems
+WI0020575,,,4952,Sewerage Systems
+WI0020583,,,4952,Sewerage Systems
+WI0020591,,,4952,Sewerage Systems
+WI0020605,,,4952,Sewerage Systems
+WI0020613,,,4952,Sewerage Systems
+WI0020621,,,4952,Sewerage Systems
+WI0020648,,,4952,Sewerage Systems
+WI0020656,,,4952,Sewerage Systems
+WI0020672,,,4952,Sewerage Systems
+WI0020681,,,4952,Sewerage Systems
+WI0020699,,,4952,Sewerage Systems
+WI0020702,,,4952,Sewerage Systems
+WI0020711,,,4952,Sewerage Systems
+WI0020729,,,4952,Sewerage Systems
+WI0020737,,,4952,Sewerage Systems
+WI0020745,,,4952,Sewerage Systems
+WI0020753,,,4952,Sewerage Systems
+WI0020761,,,4952,Sewerage Systems
+WI0020770,,,4952,Sewerage Systems
+WI0020788,,,4952,Sewerage Systems
+WI0020796,,,4952,Sewerage Systems
+WI0020800,,,4952,Sewerage Systems
+WI0020818,,,4952,Sewerage Systems
+WI0020842,,,4952,Sewerage Systems
+WI0020851,,,4952,Sewerage Systems
+WI0020869,,,4952,Sewerage Systems
+WI0020877,,,4952,Sewerage Systems
+WI0020885,,,4952,Sewerage Systems
+WI0020893,,,4952,Sewerage Systems
+WI0020907,,,4952,Sewerage Systems
+WI0020915,,,4952,Sewerage Systems
+WI0020923,,,4952,Sewerage Systems
+WI0020940,,,4952,Sewerage Systems
+WI0020958,,,4952,Sewerage Systems
+WI0020966,,,4952,Sewerage Systems
+WI0020974,,,4952,Sewerage Systems
+WI0020991,,,4952,Sewerage Systems
+WI0021008,,,4952,Sewerage Systems
+WI0021016,,,4952,Sewerage Systems
+WI0021024,,,4952,Sewerage Systems
+WI0021032,,,4952,Sewerage Systems
+WI0021041,,,4952,Sewerage Systems
+WI0021059,,,4952,Sewerage Systems
+WI0021067,,,4952,Sewerage Systems
+WI0021075,,,4952,Sewerage Systems
+WI0021083,,,4952,Sewerage Systems
+WI0021091,,,4952,Sewerage Systems
+WI0021105,,,4952,Sewerage Systems
+WI0021113,,,4952,Sewerage Systems
+WI0021121,,,4952,Sewerage Systems
+WI0021130,,,4952,Sewerage Systems
+WI0021148,,,4952,Sewerage Systems
+WI0021181,,,4952,Sewerage Systems
+WI0021199,,,4952,Sewerage Systems
+WI0021202,,,4952,Sewerage Systems
+WI0021229,,,4952,Sewerage Systems
+WI0021237,,,4952,Sewerage Systems
+WI0021245,,,4952,Sewerage Systems
+WI0021253,,,4952,Sewerage Systems
+WI0021261,,,4952,Sewerage Systems
+WI0021270,,,4952,Sewerage Systems
+WI0021288,,,4952,Sewerage Systems
+WI0021296,,,4952,Sewerage Systems
+WI0021300,,,4952,Sewerage Systems
+WI0021318,,,4952,Sewerage Systems
+WI0021326,,,4952,Sewerage Systems
+WI0021342,,,4952,Sewerage Systems
+WI0021351,,,4952,Sewerage Systems
+WI0021369,,,4952,Sewerage Systems
+WI0021377,,,4952,Sewerage Systems
+WI0021385,,,4952,Sewerage Systems
+WI0021393,,,4952,Sewerage Systems
+WI0021407,,,4952,Sewerage Systems
+WI0021415,,,4952,Sewerage Systems
+WI0021423,,,4952,Sewerage Systems
+WI0021431,,,4952,Sewerage Systems
+WI0021440,,,4952,Sewerage Systems
+WI0021466,,,4952,Sewerage Systems
+WI0021474,,,4952,Sewerage Systems
+WI0021482,,,4952,Sewerage Systems
+WI0021512,,,4952,Sewerage Systems
+WI0021521,,,4952,Sewerage Systems
+WI0021539,,,4952,Sewerage Systems
+WI0021547,,,4952,Sewerage Systems
+WI0021555,,,4952,Sewerage Systems
+WI0021571,,,4952,Sewerage Systems
+WI0021580,,,4952,Sewerage Systems
+WI0021598,,,4952,Sewerage Systems
+WI0021601,,,4952,Sewerage Systems
+WI0021636,,,4952,Sewerage Systems
+WI0021644,,,4952,Sewerage Systems
+WI0021661,,,4952,Sewerage Systems
+WI0021679,,,4952,Sewerage Systems
+WI0021687,,,4952,Sewerage Systems
+WI0021695,,,4952,Sewerage Systems
+WI0021709,,,4952,Sewerage Systems
+WI0021717,,,4952,Sewerage Systems
+WI0021725,,,4952,Sewerage Systems
+WI0021733,,,4952,Sewerage Systems
+WI0021741,,,4952,Sewerage Systems
+WI0021768,,,4952,Sewerage Systems
+WI0021776,,,4952,Sewerage Systems
+WI0021784,,,4952,Sewerage Systems
+WI0021792,,,4952,Sewerage Systems
+WI0021806,,,4952,Sewerage Systems
+WI0021831,,,4952,Sewerage Systems
+WI0021857,,,4952,Sewerage Systems
+WI0021865,,,4952,Sewerage Systems
+WI0021881,,,4952,Sewerage Systems
+WI0021903,,,4952,Sewerage Systems
+WI0021911,,,4952,Sewerage Systems
+WI0021920,,,4952,Sewerage Systems
+WI0021938,,,4952,Sewerage Systems
+WI0021946,,,4952,Sewerage Systems
+WI0021954,,,4952,Sewerage Systems
+WI0022004,,,4952,Sewerage Systems
+WI0022012,,,4952,Sewerage Systems
+WI0022021,,,4952,Sewerage Systems
+WI0022039,,,4952,Sewerage Systems
+WI0022047,,,4952,Sewerage Systems
+WI0022055,,,4952,Sewerage Systems
+WI0022063,,,4952,Sewerage Systems
+WI0022071,,,4952,Sewerage Systems
+WI0022080,,,4952,Sewerage Systems
+WI0022101,,,4952,Sewerage Systems
+WI0022110,,,4952,Sewerage Systems
+WI0022136,,,4952,Sewerage Systems
+WI0022144,,,4952,Sewerage Systems
+WI0022161,,,4952,Sewerage Systems
+WI0022179,,,4952,Sewerage Systems
+WI0022187,,,4952,Sewerage Systems
+WI0022195,,,4952,Sewerage Systems
+WI0022217,,,4952,Sewerage Systems
+WI0022225,,,4952,Sewerage Systems
+WI0022233,,,4952,Sewerage Systems
+WI0022241,,,4952,Sewerage Systems
+WI0022250,,,4952,Sewerage Systems
+WI0022268,,,4952,Sewerage Systems
+WI0022276,,,4952,Sewerage Systems
+WI0022284,,,4952,Sewerage Systems
+WI0022292,,,4952,Sewerage Systems
+WI0022306,,,4952,Sewerage Systems
+WI0022322,,,4952,Sewerage Systems
+WI0022349,,,4952,Sewerage Systems
+WI0022357,,,4952,Sewerage Systems
+WI0022365,,,4952,Sewerage Systems
+WI0022373,,,4952,Sewerage Systems
+WI0022381,,,4952,Sewerage Systems
+WI0022390,,,4952,Sewerage Systems
+WI0022403,,,4952,Sewerage Systems
+WI0022411,,,4952,Sewerage Systems
+WI0022420,,,4952,Sewerage Systems
+WI0022438,,,4952,Sewerage Systems
+WI0022446,,,4952,Sewerage Systems
+WI0022462,,,4952,Sewerage Systems
+WI0022471,,,4952,Sewerage Systems
+WI0022489,,,4952,Sewerage Systems
+WI0022497,,,4952,Sewerage Systems
+WI0022608,,,4952,Sewerage Systems
+WI0022675,,,4952,Sewerage Systems
+WI0022691,,,4952,Sewerage Systems
+WI0022705,,,4952,Sewerage Systems
+WI0022713,,,0921,Fish Hatcheries And Preserves
+WI0022721,,,0921,Fish Hatcheries And Preserves
+WI0022748,,,0921,Fish Hatcheries And Preserves
+WI0022756,,,0921,Fish Hatcheries And Preserves
+WI0022772,,,4952,Sewerage Systems
+WI0022781,,,4952,Sewerage Systems
+WI0022799,,,4952,Sewerage Systems
+WI0022802,,,4952,Sewerage Systems
+WI0022811,,,4952,Sewerage Systems
+WI0022829,,,4952,Sewerage Systems
+WI0022837,,,4952,Sewerage Systems
+WI0022845,,,4952,Sewerage Systems
+WI0022853,,,4952,Sewerage Systems
+WI0022861,,,4952,Sewerage Systems
+WI0022870,,,4952,Sewerage Systems
+WI0022896,,,4952,Sewerage Systems
+WI0022918,,,4952,Sewerage Systems
+WI0022926,,,4952,Sewerage Systems
+WI0022942,,,2026,Fluid Milk
+WI0023051,,,4952,Sewerage Systems
+WI0023078,,,4952,Sewerage Systems
+WI0023094,,,2011,Meat Packing Plants
+WI0023141,,,4952,Sewerage Systems
+WI0023159,,,4952,Sewerage Systems
+WI0023183,,,4952,Sewerage Systems
+WI0023213,,,4952,Sewerage Systems
+WI0023221,,,4952,Sewerage Systems
+WI0023230,,,4952,Sewerage Systems
+WI0023272,,,4952,Sewerage Systems
+WI0023345,,,4952,Sewerage Systems
+WI0023353,,,4952,Sewerage Systems
+WI0023361,,,4952,Sewerage Systems
+WI0023370,,,4952,Sewerage Systems
+WI0023400,,,4952,Sewerage Systems
+WI0023418,,,4952,Sewerage Systems
+WI0023442,,,4952,Sewerage Systems
+WI0023469,,,4952,Sewerage Systems
+WI0023485,,,4952,Sewerage Systems
+WI0023515,,,4952,Sewerage Systems
+WI0023523,,,4952,Sewerage Systems
+WI0023566,,,4952,Sewerage Systems
+WI0023604,,,4952,Sewerage Systems
+WI0023639,,,4952,Sewerage Systems
+WI0023655,,,4952,Sewerage Systems
+WI0023663,,,4952,Sewerage Systems
+WI0023698,,,4952,Sewerage Systems
+WI0023744,,,4952,Sewerage Systems
+WI0023787,,,4952,Sewerage Systems
+WI0023817,,,4952,Sewerage Systems
+WI0023850,,,4952,Sewerage Systems
+WI0023892,,,4952,Sewerage Systems
+WI0023914,,,4952,Sewerage Systems
+WI0023922,,,4952,Sewerage Systems
+WI0023931,,,4952,Sewerage Systems
+WI0023949,,,4952,Sewerage Systems
+WI0023957,,,4952,Sewerage Systems
+WI0023973,,,4952,Sewerage Systems
+WI0023981,,,4952,Sewerage Systems
+WI0023990,,,4952,Sewerage Systems
+WI0024023,,,4952,Sewerage Systems
+WI0024040,,,4952,Sewerage Systems
+WI0024139,,,4952,Sewerage Systems
+WI0024171,,,4952,Sewerage Systems
+WI0024201,,,4952,Sewerage Systems
+WI0024210,,,4952,Sewerage Systems
+WI0024236,,,4952,Sewerage Systems
+WI0024261,,,4952,Sewerage Systems
+WI0024279,,,4952,Sewerage Systems
+WI0024287,,,4952,Sewerage Systems
+WI0024333,,,4952,Sewerage Systems
+WI0024465,,,4952,Sewerage Systems
+WI0024503,,,4952,Sewerage Systems
+WI0024597,,,4952,Sewerage Systems
+WI0024601,,,4952,Sewerage Systems
+WI0024619,,,4952,Sewerage Systems
+WI0024627,,,4952,Sewerage Systems
+WI0024635,,,4952,Sewerage Systems
+WI0024643,,,4952,Sewerage Systems
+WI0024678,,,4952,Sewerage Systems
+WI0024686,,,4952,Sewerage Systems
+WI0024708,,,4952,Sewerage Systems
+WI0024732,,,4952,Sewerage Systems
+WI0024741,,,4952,Sewerage Systems
+WI0024791,,,4952,Sewerage Systems
+WI0024813,,,4952,Sewerage Systems
+WI0024821,,,4952,Sewerage Systems
+WI0024830,,,4952,Sewerage Systems
+WI0024911,,,4952,Sewerage Systems
+WI0024929,,,4952,Sewerage Systems
+WI0024961,,,4952,Sewerage Systems
+WI0024988,,,4952,Sewerage Systems
+WI0025011,,,4952,Sewerage Systems
+WI0025020,,,4952,Sewerage Systems
+WI0025038,,,4952,Sewerage Systems
+WI0025046,,,4952,Sewerage Systems
+WI0025062,,,4952,Sewerage Systems
+WI0025119,,,4952,Sewerage Systems
+WI0025178,,,4952,Sewerage Systems
+WI0025194,,,4952,Sewerage Systems
+WI0025321,,,3536,"Hoists, Cranes, And Monorails"
+WI0025348,,,4952,Sewerage Systems
+WI0025356,,,4952,Sewerage Systems
+WI0025411,,,4952,Sewerage Systems
+WI0025453,,,4952,Sewerage Systems
+WI0025569,,,4952,Sewerage Systems
+WI0025585,,,4952,Sewerage Systems
+WI0025593,,,4952,Sewerage Systems
+WI0025615,,,4952,Sewerage Systems
+WI0025631,,,4952,Sewerage Systems
+WI0025640,,,4952,Sewerage Systems
+WI0025739,,,4952,Sewerage Systems
+WI0025763,,,4952,Sewerage Systems
+WI0025844,,,4952,Sewerage Systems
+WI0025941,,,2013,Sausages And Other Prepared Meats
+WI0025976,,,4952,Sewerage Systems
+WI0026000,,,4952,Sewerage Systems
+WI0026026,,,2021,Creamery Butter
+WI0026042,,,2621,Paper Mills
+WI0026085,,,4952,Sewerage Systems
+WI0026158,,,4952,Sewerage Systems
+WI0026182,,,4952,Sewerage Systems
+WI0026255,,,0921,Fish Hatcheries And Preserves
+WI0026352,,,4952,Sewerage Systems
+WI0026379,,,3321,Gray And Ductile Iron Foundries
+WI0026514,,,3519,Internal Combustion Engines
+WI0026590,,,4952,Sewerage Systems
+WI0026620,,,2033,Canned Fruits And Vegetables
+WI0026654,,,4952,Sewerage Systems
+WI0026689,,,4952,Sewerage Systems
+WI0026701,,,4952,Sewerage Systems
+WI0026751,,,2021,Creamery Butter
+WI0026808,,,4952,Sewerage Systems
+WI0026867,,,4952,Sewerage Systems
+WI0026891,,,4952,Sewerage Systems
+WI0026913,,,4952,Sewerage Systems
+WI0026930,,,4952,Sewerage Systems
+WI0026948,,,4952,Sewerage Systems
+WI0026999,,,2671,"Paper Coated & Laminated, Packaging"
+WI0027189,,,4911,Electric Services
+WI0027197,,,2022,"Cheese, Natural And Processed"
+WI0027201,,,2022,"Cheese, Natural And Processed"
+WI0027308,,,2022,"Cheese, Natural And Processed"
+WI0027448,,,2033,Canned Fruits And Vegetables
+WI0027456,,,3354,Aluminum Extruded Products
+WI0027553,,,2023,"Dry, Condensed, Evaporated Products"
+WI0027596,,,2022,"Cheese, Natural And Processed"
+WI0027618,,,2022,"Cheese, Natural And Processed"
+WI0027634,,,2033,Canned Fruits And Vegetables
+WI0027707,,,4911,Electric Services
+WI0027731,,,2821,Plastics Materials And Resins
+WI0027995,,,4952,Sewerage Systems
+WI0028011,,,4952,Sewerage Systems
+WI0028053,,,4952,Sewerage Systems
+WI0028061,,,4952,Sewerage Systems
+WI0028070,,,4952,Sewerage Systems
+WI0028100,,,4952,Sewerage Systems
+WI0028142,,,4952,Sewerage Systems
+WI0028169,,,4952,Sewerage Systems
+WI0028207,,,4952,Sewerage Systems
+WI0028291,,,4952,Sewerage Systems
+WI0028304,,,4952,Sewerage Systems
+WI0028321,,,4952,Sewerage Systems
+WI0028339,,,4952,Sewerage Systems
+WI0028363,,,4952,Sewerage Systems
+WI0028380,,,4952,Sewerage Systems
+WI0028428,,,4952,Sewerage Systems
+WI0028444,,,4952,Sewerage Systems
+WI0028452,,,4952,Sewerage Systems
+WI0028461,,,4952,Sewerage Systems
+WI0028487,,,4952,Sewerage Systems
+WI0028509,,,4952,Sewerage Systems
+WI0028541,,,4952,Sewerage Systems
+WI0028592,,,4952,Sewerage Systems
+WI0028703,,,4952,Sewerage Systems
+WI0028754,,,4952,Sewerage Systems
+WI0028819,,,4952,Sewerage Systems
+WI0028835,,,4952,Sewerage Systems
+WI0028843,,,4952,Sewerage Systems
+WI0028878,,,4952,Sewerage Systems
+WI0028894,,,4952,Sewerage Systems
+WI0028908,,,4952,Sewerage Systems
+WI0028924,,,4952,Sewerage Systems
+WI0028941,,,4952,Sewerage Systems
+WI0028967,,,4952,Sewerage Systems
+WI0028975,,,4952,Sewerage Systems
+WI0028991,,,4952,Sewerage Systems
+WI0029009,,,4952,Sewerage Systems
+WI0029017,,,4952,Sewerage Systems
+WI0029025,,,4952,Sewerage Systems
+WI0029033,,,4952,Sewerage Systems
+WI0029041,,,4952,Sewerage Systems
+WI0029050,,,4952,Sewerage Systems
+WI0029076,,,4952,Sewerage Systems
+WI0029106,,,4952,Sewerage Systems
+WI0029114,,,4952,Sewerage Systems
+WI0029131,,,4952,Sewerage Systems
+WI0029149,,,2851,Paints And Allied Products
+WI0029181,,,2022,"Cheese, Natural And Processed"
+WI0029271,,,4952,Sewerage Systems
+WI0029289,,,4952,Sewerage Systems
+WI0029319,,,4952,Sewerage Systems
+WI0029327,,,4952,Sewerage Systems
+WI0029335,,,4952,Sewerage Systems
+WI0029343,,,4952,Sewerage Systems
+WI0029386,,,4952,Sewerage Systems
+WI0029394,,,4952,Sewerage Systems
+WI0029459,,,4952,Sewerage Systems
+WI0029467,,,4952,Sewerage Systems
+WI0029521,,,3081,Unsupported Plastics Film & Sheet
+WI0029572,,,4952,Sewerage Systems
+WI0029581,,,4952,Sewerage Systems
+WI0029599,,,4952,Sewerage Systems
+WI0029602,,,4952,Sewerage Systems
+WI0029611,,,4952,Sewerage Systems
+WI0029670,,,4952,Sewerage Systems
+WI0029688,,,4952,Sewerage Systems
+WI0029700,,,4952,Sewerage Systems
+WI0029718,,,4952,Sewerage Systems
+WI0029726,,,4952,Sewerage Systems
+WI0029742,,,4952,Sewerage Systems
+WI0029793,,,4952,Sewerage Systems
+WI0029807,,,4952,Sewerage Systems
+WI0029831,,,4952,Sewerage Systems
+WI0029963,,,4952,Sewerage Systems
+WI0029971,,,4952,Sewerage Systems
+WI0029998,,,4952,Sewerage Systems
+WI0030031,,,4952,Sewerage Systems
+WI0030066,,,4952,Sewerage Systems
+WI0030252,,,4952,Sewerage Systems
+WI0030309,,,4952,Sewerage Systems
+WI0030341,,,4952,Sewerage Systems
+WI0030350,,,4952,Sewerage Systems
+WI0030368,,,4952,Sewerage Systems
+WI0030431,,,4952,Sewerage Systems
+WI0030449,,,4952,Sewerage Systems
+WI0030481,,,4952,Sewerage Systems
+WI0030490,,,4952,Sewerage Systems
+WI0030503,,,4952,Sewerage Systems
+WI0030520,,,4952,Sewerage Systems
+WI0030627,,,4952,Sewerage Systems
+WI0030635,,,4952,Sewerage Systems
+WI0030643,,,4952,Sewerage Systems
+WI0030651,,,4952,Sewerage Systems
+WI0030660,,,4952,Sewerage Systems
+WI0030716,,,4952,Sewerage Systems
+WI0030741,,,4952,Sewerage Systems
+WI0030759,,,4952,Sewerage Systems
+WI0030767,,,4952,Sewerage Systems
+WI0030775,,,4952,Sewerage Systems
+WI0030805,,,4952,Sewerage Systems
+WI0030830,,,4952,Sewerage Systems
+WI0030848,,,4952,Sewerage Systems
+WI0030856,,,4952,Sewerage Systems
+WI0030881,,,4952,Sewerage Systems
+WI0030899,,,4952,Sewerage Systems
+WI0030911,,,4952,Sewerage Systems
+WI0030929,,,4952,Sewerage Systems
+WI0030937,,,4952,Sewerage Systems
+WI0030961,,,4952,Sewerage Systems
+WI0030970,,,4952,Sewerage Systems
+WI0031011,,,4952,Sewerage Systems
+WI0031020,,,4952,Sewerage Systems
+WI0031038,,,4952,Sewerage Systems
+WI0031054,,,4952,Sewerage Systems
+WI0031127,,,4952,Sewerage Systems
+WI0031160,,,4952,Sewerage Systems
+WI0031186,,,4952,Sewerage Systems
+WI0031194,,,4952,Sewerage Systems
+WI0031224,,,4952,Sewerage Systems
+WI0031232,,,4952,Sewerage Systems
+WI0031259,,,4952,Sewerage Systems
+WI0031267,,,4952,Sewerage Systems
+WI0031275,,,4952,Sewerage Systems
+WI0031313,,,8051,Skilled Nursing Care Facilities
+WI0031330,,,4952,Sewerage Systems
+WI0031348,,,4952,Sewerage Systems
+WI0031364,,,4952,Sewerage Systems
+WI0031372,,,4952,Sewerage Systems
+WI0031381,,,4952,Sewerage Systems
+WI0031402,,,4952,Sewerage Systems
+WI0031411,,,4952,Sewerage Systems
+WI0031429,,,4952,Sewerage Systems
+WI0031445,,,4952,Sewerage Systems
+WI0031453,,,4952,Sewerage Systems
+WI0031461,,,4952,Sewerage Systems
+WI0031470,,,4952,Sewerage Systems
+WI0031488,,,4952,Sewerage Systems
+WI0031496,,,4952,Sewerage Systems
+WI0031500,,,4952,Sewerage Systems
+WI0031526,,,4952,Sewerage Systems
+WI0031551,,,4952,Sewerage Systems
+WI0031569,,,4952,Sewerage Systems
+WI0031577,,,4952,Sewerage Systems
+WI0031607,,,4952,Sewerage Systems
+WI0031615,,,4952,Sewerage Systems
+WI0031623,,,4952,Sewerage Systems
+WI0031658,,,4952,Sewerage Systems
+WI0031682,,,4952,Sewerage Systems
+WI0031691,,,4952,Sewerage Systems
+WI0031704,,,4952,Sewerage Systems
+WI0031747,,,4952,Sewerage Systems
+WI0031755,,,4952,Sewerage Systems
+WI0031780,,,4952,Sewerage Systems
+WI0031801,,,4952,Sewerage Systems
+WI0031828,,,4952,Sewerage Systems
+WI0031844,,,4952,Sewerage Systems
+WI0031852,,,4952,Sewerage Systems
+WI0031861,,,4952,Sewerage Systems
+WI0031879,,,4952,Sewerage Systems
+WI0031887,,,4952,Sewerage Systems
+WI0031909,,,4952,Sewerage Systems
+WI0031917,,,4952,Sewerage Systems
+WI0031925,,,4952,Sewerage Systems
+WI0031941,,,4952,Sewerage Systems
+WI0031950,,,4952,Sewerage Systems
+WI0031968,,,4952,Sewerage Systems
+WI0031992,,,4952,Sewerage Systems
+WI0032026,,,4952,Sewerage Systems
+WI0032051,,,4952,Sewerage Systems
+WI0032069,,,4952,Sewerage Systems
+WI0032077,,,4952,Sewerage Systems
+WI0032085,,,4952,Sewerage Systems
+WI0032123,,,4952,Sewerage Systems
+WI0032140,,,4952,Sewerage Systems
+WI0032263,,,4952,Sewerage Systems
+WI0032361,,,4952,Sewerage Systems
+WI0032492,,,4952,Sewerage Systems
+WI0032522,,,4952,Sewerage Systems
+WI0032531,,,4952,Sewerage Systems
+WI0032760,,,2033,Canned Fruits And Vegetables
+WI0032794,,,2022,"Cheese, Natural And Processed"
+WI0033286,,,1442,Construction Sand And Gravel
+WI0033529,,,3824,Fluid Meters And Counting Devices
+WI0035114,,,4952,Sewerage Systems
+WI0035131,,,4952,Sewerage Systems
+WI0035149,,,4952,Sewerage Systems
+WI0035203,,,4952,Sewerage Systems
+WI0035459,,,4952,Sewerage Systems
+WI0035483,,,4952,Sewerage Systems
+WI0035513,,,4952,Sewerage Systems
+WI0035548,,,4952,Sewerage Systems
+WI0035581,,,4952,Sewerage Systems
+WI0035661,,,4952,Sewerage Systems
+WI0035718,,,4952,Sewerage Systems
+WI0035840,,,4952,Sewerage Systems
+WI0035866,,,4952,Sewerage Systems
+WI0035874,,,4952,Sewerage Systems
+WI0035939,,,4952,Sewerage Systems
+WI0035963,,,4952,Sewerage Systems
+WI0035980,,,4952,Sewerage Systems
+WI0035998,,,4952,Sewerage Systems
+WI0036021,,,4952,Sewerage Systems
+WI0036030,,,4952,Sewerage Systems
+WI0036048,,,4952,Sewerage Systems
+WI0036064,,,4952,Sewerage Systems
+WI0036102,,,4952,Sewerage Systems
+WI0036111,,,4959,Sanitary Services
+WI0036170,,,4952,Sewerage Systems
+WI0036188,221320,Sewage Treatment Facilities,4952,Sewerage Systems
+WI0036200,,,4952,Sewerage Systems
+WI0036251,,,4952,Sewerage Systems
+WI0036277,,,4952,Sewerage Systems
+WI0036285,,,4952,Sewerage Systems
+WI0036374,,,4952,Sewerage Systems
+WI0036421,,,4952,Sewerage Systems
+WI0036447,,,4952,Sewerage Systems
+WI0036498,221320,Sewage Treatment Facilities,4952,Sewerage Systems
+WI0036536,,,4952,Sewerage Systems
+WI0036544,221320,Sewage Treatment Facilities,4952,Sewerage Systems
+WI0036552,,,4952,Sewerage Systems
+WI0036579,221320,Sewage Treatment Facilities,4952,Sewerage Systems
+WI0036587,221320,Sewage Treatment Facilities,4952,Sewerage Systems
+WI0036617,,,4952,Sewerage Systems
+WI0036641,,,4952,Sewerage Systems
+WI0036706,,,4952,Sewerage Systems
+WI0036731,,,4952,Sewerage Systems
+WI0036749,,,4952,Sewerage Systems
+WI0036765,,,4952,Sewerage Systems
+WI0036773,,,4952,Sewerage Systems
+WI0036790,,,4952,Sewerage Systems
+WI0036803,,,4952,Sewerage Systems
+WI0036811,,,4952,Sewerage Systems
+WI0036820,,,4952,Sewerage Systems
+WI0036838,,,4952,Sewerage Systems
+WI0036846,,,4952,Sewerage Systems
+WI0036854,,,4952,Sewerage Systems
+WI0036889,,,4952,Sewerage Systems
+WI0037311,,,2022,"Cheese, Natural And Processed"
+WI0037389,,,2621,Paper Mills
+WI0037702,,,2035,"Pickles, Sauces, And Salad Dressings"
+WI0037842,,,2621,Paper Mills
+WI0037982,,,2022,"Cheese, Natural And Processed"
+WI0037991,,,2611,Pulp Mills
+WI0038083,,,2048,Prepared Feeds
+WI0038296,,,4961,Steam And Air-Conditioning Supply
+WI0038580,,,3612,"Transformers, Except Electronic"
+WI0038938,,,3317,Steel Pipe And Tubes
+WI0038946,,,5052,Coal And Other Minerals And Ores
+WI0039039,,,2023,"Dry, Condensed, Evaporated Products"
+WI0039071,,,2033,Canned Fruits And Vegetables
+WI0039080,,,4952,Sewerage Systems
+WI0039144,,,8063,Psychiatric Hospitals
+WI0039501,,,2022,"Cheese, Natural And Processed"
+WI0039527,,,2022,"Cheese, Natural And Processed"
+WI0039781,,,2066,Chocolate And Cocoa Products
+WI0039993,,,2026,Fluid Milk
+WI0040223,,,4911,Electric Services
+WI0040282,,,4961,Steam And Air-Conditioning Supply
+WI0040312,,,2022,"Cheese, Natural And Processed"
+WI0040410,,,2022,"Cheese, Natural And Processed"
+WI0041149,,,3471,Plating And Polishing
+WI0041351,,,3823,Process Control Instruments
+WI0041475,,,2033,Canned Fruits And Vegetables
+WI0041904,,,2022,"Cheese, Natural And Processed"
+WI0042218,,,3081,Unsupported Plastics Film & Sheet
+WI0042528,,,2435,Hardwood Veneer And Plywood
+WI0042650,,,2013,Sausages And Other Prepared Meats
+WI0042757,,,4911,Electric Services
+WI0042765,,,4911,Electric Services
+WI0043583,,,4911,Electric Services
+WI0043699,,,3321,Gray And Ductile Iron Foundries
+WI0043974,,,2892,Explosives
+WI0044334,,,0921,Fish Hatcheries And Preserves
+WI0044393,,,5171,Petroleum Bulk Stations & Terminals
+WI0044521,,,2026,Fluid Milk
+WI0044628,,,2011,Meat Packing Plants
+WI0044831,,,4013,Switching And Terminal Services
+WI0045080,,,2033,Canned Fruits And Vegetables
+WI0045756,,,0921,Fish Hatcheries And Preserves
+WI0045942,,,0921,Fish Hatcheries And Preserves
+WI0046248,,,5261,Retail Nurseries And Garden Stores
+WI0046400,,,2022,"Cheese, Natural And Processed"
+WI0046477,,,4581,"Airports, Flying Fields, & Services"
+WI0046574,,,2011,Meat Packing Plants
+WI0046868,321113,Sawmills,2421,"Sawmills And Planing Mills, General"
+WI0046957,,,2022,"Cheese, Natural And Processed"
+WI0047147,,,2086,Bottled And Canned Soft Drinks
+WI0047180,,,0921,Fish Hatcheries And Preserves
+WI0047546,,,2023,"Dry, Condensed, Evaporated Products"
+WI0047929,,,2435,Hardwood Veneer And Plywood
+WI0048721,,,7991,Physical Fitness Facilities
+WI0048747,,,4581,"Airports, Flying Fields, & Services"
+WI0049034,,,0241,Dairy Farms
+WI0049042,,,0213,Hogs
+WI0049069,,,4931,Electric And Other Services Combined
+WI0049131,,,4911,Electric Services
+WI0049191,,,0921,Fish Hatcheries And Preserves
+WI0049204,,,2086,Bottled And Canned Soft Drinks
+WI0049239,,,3052,Rubber & Plastics Hose & Belting
+WI0049379,,,0723,Crop Preparation Services For Market
+WI0049492,,,0241,Dairy Farms
+WI0049514,,,4953,Refuse Systems
+WI0049689,,,4952,Sewerage Systems
+WI0049727,221320,Sewage Treatment Facilities,4952,Sewerage Systems
+WI0049760,,,4952,Sewerage Systems
+WI0049794,,,4952,Sewerage Systems
+WI0049816,,,4952,Sewerage Systems
+WI0049824,,,4952,Sewerage Systems
+WI0049832,,,4952,Sewerage Systems
+WI0049841,,,4952,Sewerage Systems
+WI0049859,,,4952,Sewerage Systems
+WI0050016,,,2022,"Cheese, Natural And Processed"
+WI0050237,,,2022,"Cheese, Natural And Processed"
+WI0050245,,,2022,"Cheese, Natural And Processed"
+WI0050385,,,2022,"Cheese, Natural And Processed"
+WI0050407,,,2035,"Pickles, Sauces, And Salad Dressings"
+WI0050547,,,2022,"Cheese, Natural And Processed"
+WI0050644,,,2022,"Cheese, Natural And Processed"
+WI0050679,,,2037,Frozen Fruits And Vegetables
+WI0050687,,,2033,Canned Fruits And Vegetables
+WI0050725,,,2022,"Cheese, Natural And Processed"
+WI0050784,,,2011,Meat Packing Plants
+WI0050822,,,2033,Canned Fruits And Vegetables
+WI0050971,,,2022,"Cheese, Natural And Processed"
+WI0051128,,,2022,"Cheese, Natural And Processed"
+WI0051152,,,2022,"Cheese, Natural And Processed"
+WI0051250,,,2022,"Cheese, Natural And Processed"
+WI0051535,,,2022,"Cheese, Natural And Processed"
+WI0051764,,,2022,"Cheese, Natural And Processed"
+WI0052043,,,2022,"Cheese, Natural And Processed"
+WI0052060,,,2033,Canned Fruits And Vegetables
+WI0052086,,,2022,"Cheese, Natural And Processed"
+WI0052159,,,3931,Musical Instruments
+WI0052931,,,2011,Meat Packing Plants
+WI0053015,,,2022,"Cheese, Natural And Processed"
+WI0053244,,,2022,"Cheese, Natural And Processed"
+WI0053376,,,0251,"Broiler, Fryer, And Roaster Chickens"
+WI0053449,,,3273,Ready-Mixed Concrete
+WI0053597,,,2022,"Cheese, Natural And Processed"
+WI0053694,,,2022,"Cheese, Natural And Processed"
+WI0053970,,,2435,Hardwood Veneer And Plywood
+WI0054127,,,2022,"Cheese, Natural And Processed"
+WI0054241,,,2022,"Cheese, Natural And Processed"
+WI0054364,,,2022,"Cheese, Natural And Processed"
+WI0054411,,,2022,"Cheese, Natural And Processed"
+WI0054470,,,2022,"Cheese, Natural And Processed"
+WI0054500,,,3479,Metal Coating And Allied Services
+WI0054518,,,2037,Frozen Fruits And Vegetables
+WI0055174,,,2022,"Cheese, Natural And Processed"
+WI0055301,,,2047,Dog And Cat Food
+WI0055328,,,3086,Plastics Foam Products
+WI0055751,,,2022,"Cheese, Natural And Processed"
+WI0055808,,,2022,"Cheese, Natural And Processed"
+WI0055816,,,3561,Pumps And Pumping Equipment
+WI0056120,,,2022,"Cheese, Natural And Processed"
+WI0056260,,,0213,Hogs
+WI0056294,,,0211,Beef Cattle Feedlots
+WI0056308,,,0252,Chicken Eggs
+WI0056529,,,0213,Hogs
+WI0056537,,,0251,"Broiler, Fryer, And Roaster Chickens"
+WI0056677,,,0259,Poultry And Eggs
+WI0056731,,,0241,Dairy Farms
+WI0056791,,,0241,Dairy Farms
+WI0056812,,,0241,Dairy Farms
+WI0056839,,,0241,Dairy Farms
+WI0056847,,,0241,Dairy Farms
+WI0056880,,,5031,"Lumber, Plywood, And Millwork"
+WI0057436,,,2011,Meat Packing Plants
+WI0057479,,,0241,Dairy Farms
+WI0057541,,,2022,"Cheese, Natural And Processed"
+WI0057550,,,0251,"Broiler, Fryer, And Roaster Chickens"
+WI0057592,,,2099,Food Preparations
+WI0057738,,,2033,Canned Fruits And Vegetables
+WI0058220,,,0273,Animal Aquaculture
+WI0058271,,,0921,Fish Hatcheries And Preserves
+WI0058386,,,0241,Dairy Farms
+WI0058408,,,0241,Dairy Farms
+WI0058424,221320,Sewage Treatment Facilities,4952,Sewerage Systems
+WI0058432,221320,Sewage Treatment Facilities,4952,Sewerage Systems
+WI0058564,,,1422,Crushed And Broken Limestone
+WI0058572,,,0241,Dairy Farms
+WI0058602,,,0241,Dairy Farms
+WI0058718,,,4953,Refuse Systems
+WI0058751,,,0241,Dairy Farms
+WI0058815,,,0241,Dairy Farms
+WI0058866,,,0211,Beef Cattle Feedlots
+WI0058882,,,4953,Refuse Systems
+WI0058947,,,0241,Dairy Farms
+WI0058955,,,0213,Hogs
+WI0058971,,,0241,Dairy Farms
+WI0058998,,,0241,Dairy Farms
+WI0059021,,,0241,Dairy Farms
+WI0059048,,,0213,Hogs
+WI0059056,,,0241,Dairy Farms
+WI0059072,,,0241,Dairy Farms
+WI0059102,,,0241,Dairy Farms
+WI0059111,,,0241,Dairy Farms
+WI0059129,,,0241,Dairy Farms
+WI0059200,,,0241,Dairy Farms
+WI0059218,,,0241,Dairy Farms
+WI0059226,,,0241,Dairy Farms
+WI0059242,,,0241,Dairy Farms
+WI0059277,,,0241,Dairy Farms
+WI0059315,,,0241,Dairy Farms
+WI0059340,,,0241,Dairy Farms
+WI0059358,,,0241,Dairy Farms
+WI0059366,,,0253,Turkeys And Turkey Eggs
+WI0059374,,,0241,Dairy Farms
+WI0059382,,,0241,Dairy Farms
+WI0059391,,,0241,Dairy Farms
+WI0059404,,,2022,"Cheese, Natural And Processed"
+WI0059412,,,0241,Dairy Farms
+WI0059421,,,0241,Dairy Farms
+WI0059439,,,0241,Dairy Farms
+WI0059447,,,0241,Dairy Farms
+WI0059528,,,0241,Dairy Farms
+WI0059536,,,0241,Dairy Farms
+WI0059544,,,0241,Dairy Farms
+WI0059552,,,0241,Dairy Farms
+WI0059561,,,0241,Dairy Farms
+WI0059579,,,0241,Dairy Farms
+WI0060011,,,4952,Sewerage Systems
+WI0060038,,,4952,Sewerage Systems
+WI0060062,,,4952,Sewerage Systems
+WI0060071,,,4952,Sewerage Systems
+WI0060151,,,4952,Sewerage Systems
+WI0060216,,,4952,Sewerage Systems
+WI0060232,,,4952,Sewerage Systems
+WI0060259,,,4952,Sewerage Systems
+WI0060330,,,4952,Sewerage Systems
+WI0060348,,,4952,Sewerage Systems
+WI0060372,,,4952,Sewerage Systems
+WI0060381,,,4952,Sewerage Systems
+WI0060429,,,4952,Sewerage Systems
+WI0060453,,,4952,Sewerage Systems
+WI0060488,,,4952,Sewerage Systems
+WI0060500,,,4952,Sewerage Systems
+WI0060526,,,4952,Sewerage Systems
+WI0060607,,,4952,Sewerage Systems
+WI0060666,,,4952,Sewerage Systems
+WI0060721,,,9223,Correctional Institutions
+WI0060771,,,4952,Sewerage Systems
+WI0060801,,,4952,Sewerage Systems
+WI0060861,,,4952,Sewerage Systems
+WI0060879,,,4952,Sewerage Systems
+WI0060933,,,4952,Sewerage Systems
+WI0060976,,,4952,Sewerage Systems
+WI0060984,,,4952,Sewerage Systems
+WI0061042,,,4952,Sewerage Systems
+WI0061051,,,4952,Sewerage Systems
+WI0061093,,,7033,Trailer Parks And Campsites
+WI0061107,,,4952,Sewerage Systems
+WI0061191,,,4952,Sewerage Systems
+WI0061255,,,4952,Sewerage Systems
+WI0061263,,,4952,Sewerage Systems
+WI0061271,,,4952,Sewerage Systems
+WI0061301,,,4952,Sewerage Systems
+WI0061336,,,4952,Sewerage Systems
+WI0061361,,,4952,Sewerage Systems
+WI0061387,,,4952,Sewerage Systems
+WI0061395,,,0241,Dairy Farms
+WI0061492,,,0241,Dairy Farms
+WI0061506,,,0241,Dairy Farms
+WI0061620,,,0241,Dairy Farms
+WI0061638,,,0241,Dairy Farms
+WI0061646,,,4952,Sewerage Systems
+WI0061671,,,0241,Dairy Farms
+WI0061689,,,0241,Dairy Farms
+WI0061697,,,5154,Livestock
+WI0061701,,,4952,Sewerage Systems
+WI0061760,,,0241,Dairy Farms
+WI0061778,,,0241,Dairy Farms
+WI0061786,,,0241,Dairy Farms
+WI0061794,,,0241,Dairy Farms
+WI0061808,,,0241,Dairy Farms
+WI0061824,,,0211,Beef Cattle Feedlots
+WI0061832,,,0241,Dairy Farms
+WI0061841,,,0241,Dairy Farms
+WI0061883,,,0241,Dairy Farms
+WI0061891,,,4911,Electric Services
+WI0061905,,,0241,Dairy Farms
+WI0061913,,,0241,Dairy Farms
+WI0061921,,,4911,Electric Services
+WI0061948,,,0241,Dairy Farms
+WI0061972,,,0241,Dairy Farms
+WI0061981,,,0241,Dairy Farms
+WI0061999,,,0241,Dairy Farms
+WI0062022,,,0241,Dairy Farms
+WI0062031,,,0241,Dairy Farms
+WI0062049,,,0253,Turkeys And Turkey Eggs
+WI0062057,,,0241,Dairy Farms
+WI0062111,,,0241,Dairy Farms
+WI0062120,,,0241,Dairy Farms
+WI0062162,,,0241,Dairy Farms
+WI0062235,,,0241,Dairy Farms
+WI0062243,,,0241,Dairy Farms
+WI0062270,,,0241,Dairy Farms
+WI0062308,,,0291,"General Farms, Primarily Animal"
+WI0062341,,,0241,Dairy Farms
+WI0062359,,,0241,Dairy Farms
+WI0062367,,,0241,Dairy Farms
+WI0062383,,,0241,Dairy Farms
+WI0062405,,,0241,Dairy Farms
+WI0062456,,,0241,Dairy Farms
+WI0062472,,,0241,Dairy Farms
+WI0062499,,,0241,Dairy Farms
+WI0062502,,,2869,Industrial Organic Chemicals
+WI0062529,,,0241,Dairy Farms
+WI0062553,,,0259,Poultry And Eggs
+WI0062561,,,2033,Canned Fruits And Vegetables
+WI0062600,,,0241,Dairy Farms
+WI0062618,,,0241,Dairy Farms
+WI0062651,,,0241,Dairy Farms
+WI0062693,,,0241,Dairy Farms
+WI0062707,,,0241,Dairy Farms
+WI0062723,,,3625,Relays And Industrial Controls
+WI0062740,,,0241,Dairy Farms
+WI0062758,,,0241,Dairy Farms
+WI0062774,,,0241,Dairy Farms
+WI0062804,,,0241,Dairy Farms
+WI0062821,,,0241,Dairy Farms
+WI0062839,,,2022,"Cheese, Natural And Processed"
+WI0062847,221320,Sewage Treatment Facilities,4952,Sewerage Systems
+WI0062863,,,0211,Beef Cattle Feedlots
+WI0062871,,,0139,"Field Crops, Except Cash Grains"
+WI0062880,,,0241,Dairy Farms
+WI0062898,,,0241,Dairy Farms
+WI0062910,,,0241,Dairy Farms
+WI0062928,,,0241,Dairy Farms
+WI0062944,,,0241,Dairy Farms
+WI0062979,,,0241,Dairy Farms
+WI0062987,,,0241,Dairy Farms
+WI0062995,,,0211,Beef Cattle Feedlots
+WI0063011,,,2421,"Sawmills And Planing Mills, General"
+WI0063029,,,0241,Dairy Farms
+WI0063045,,,0241,Dairy Farms
+WI0063053,,,4952,Sewerage Systems
+WI0063061,,,0241,Dairy Farms
+WI0063096,,,0241,Dairy Farms
+WI0063100,,,0241,Dairy Farms
+WI0063118,,,0241,Dairy Farms
+WI0063126,,,0211,Beef Cattle Feedlots
+WI0063142,,,0213,Hogs
+WI0063151,,,0241,Dairy Farms
+WI0063169,,,0241,Dairy Farms
+WI0063177,,,0241,Dairy Farms
+WI0063193,,,0241,Dairy Farms
+WI0063207,,,2022,"Cheese, Natural And Processed"
+WI0063223,,,0241,Dairy Farms
+WI0063231,,,4222,Refrigerated Warehousing And Storage
+WI0063258,,,3691,Storage Batteries
+WI0063266,,,0213,Hogs
+WI0063312,,,0212,"Beef Cattle, Except Feedlots"
+WI0063321,,,0241,Dairy Farms
+WI0063347,,,4953,Refuse Systems
+WI0063371,,,4952,Sewerage Systems
+WI0063398,,,0241,Dairy Farms
+WI0063401,,,4952,Sewerage Systems
+WI0063410,,,0211,Beef Cattle Feedlots
+WI0063428,,,0241,Dairy Farms
+WI0063533,,,0241,Dairy Farms
+WI0063568,,,0241,Dairy Farms
+WI0063576,,,0241,Dairy Farms
+WI0063592,,,0241,Dairy Farms
+WI0063649,,,2869,Industrial Organic Chemicals
+WI0063657,,,0241,Dairy Farms
+WI0063665,,,0241,Dairy Farms
+WI0063673,,,0241,Dairy Farms
+WI0063681,,,0241,Dairy Farms
+WI0063711,,,0241,Dairy Farms
+WI0063720,,,4952,Sewerage Systems
+WI0063754,,,0241,Dairy Farms
+WI0063762,,,0213,Hogs
+WI0063771,,,2869,Industrial Organic Chemicals
+WI0063789,,,0241,Dairy Farms
+WI0063797,,,4952,Sewerage Systems
+WI0063801,,,0241,Dairy Farms
+WI0063819,,,0241,Dairy Farms
+WI0063827,,,0241,Dairy Farms
+WI0063878,,,0213,Hogs
+WI0063894,,,0241,Dairy Farms
+WI0063908,,,0291,"General Farms, Primarily Animal"
+WI0063916,,,0211,Beef Cattle Feedlots
+WI0063932,,,0241,Dairy Farms
+WI0063959,,,0241,Dairy Farms
+WI0063967,,,0241,Dairy Farms
+WI0063975,,,0241,Dairy Farms
+WI0063983,,,0241,Dairy Farms
+WI0063991,,,0241,Dairy Farms
+WI0064017,,,0241,Dairy Farms
+WI0064025,,,0241,Dairy Farms
+WI0064092,,,0241,Dairy Farms
+WI0064106,,,0241,Dairy Farms
+WI0064131,,,0241,Dairy Farms
+WI0064157,,,0211,Beef Cattle Feedlots
+WI0064190,,,0241,Dairy Farms
+WI0064203,,,0241,Dairy Farms
+WI0064220,,,0211,Beef Cattle Feedlots
+WI0064246,,,0241,Dairy Farms
+WI0064254,,,0241,Dairy Farms
+WI0064271,,,0241,Dairy Farms
+WI0064289,,,0241,Dairy Farms
+WI0064319,,,0241,Dairy Farms
+WI0064327,,,0241,Dairy Farms
+WI0064343,,,0241,Dairy Farms
+WI0064351,,,4011,"Railroads, Line-Haul Operating"
+WI0064360,,,0241,Dairy Farms
+WI0064378,,,0241,Dairy Farms
+WI0064386,,,0241,Dairy Farms
+WI0064416,,,0259,Poultry And Eggs
+WI0064424,,,2026,Fluid Milk
+WI0064432,,,0241,Dairy Farms
+WI0064441,,,0241,Dairy Farms
+WI0064467,,,0241,Dairy Farms
+WI0064483,,,0241,Dairy Farms
+WI0064491,,,0241,Dairy Farms
+WI0064505,,,0241,Dairy Farms
+WI0064521,,,0241,Dairy Farms
+WI0064548,,,0273,Animal Aquaculture
+WI0064599,,,0241,Dairy Farms
+WI0064602,,,0241,Dairy Farms
+WI0064611,,,0241,Dairy Farms
+WI0064629,,,4925,Gas Production And/Or Distribution
+WI0064637,,,0241,Dairy Farms
+WI0064645,,,0241,Dairy Farms
+WI0064661,,,0241,Dairy Farms
+WI0064696,,,0241,Dairy Farms
+WI0064700,,,0211,Beef Cattle Feedlots
+WI0064726,,,0211,Beef Cattle Feedlots
+WI0064734,,,0213,Hogs
+WI0064751,,,0241,Dairy Farms
+WI0064769,,,0241,Dairy Farms
+WI0064777,,,0241,Dairy Farms
+WI0064807,,,0241,Dairy Farms
+WI0064815,,,0241,Dairy Farms
+WI0064840,,,0241,Dairy Farms
+WI0064858,,,0241,Dairy Farms
+WI0064866,,,0241,Dairy Farms
+WI0064874,,,0241,Dairy Farms
+WI0064882,,,0241,Dairy Farms
+WI0064912,,,0211,Beef Cattle Feedlots
+WI0064921,,,2611,Pulp Mills
+WI0064939,,,4952,Sewerage Systems
+WI0064955,,,0211,Beef Cattle Feedlots
+WI0064963,,,0213,Hogs
+WI0064971,,,0241,Dairy Farms
+WI0064998,,,4952,Sewerage Systems
+WI0065005,,,0211,Beef Cattle Feedlots
+WI0065013,,,0211,Beef Cattle Feedlots
+WI0065030,,,0241,Dairy Farms
+WI0065048,,,1799,Special Trade Contractors
+WI0065072,,,4959,Sanitary Services
+WI0065081,,,0241,Dairy Farms
+WI0065102,,,4959,Sanitary Services
+WI0065111,,,0241,Dairy Farms
+WI0065129,,,0241,Dairy Farms
+WI0065137,,,0241,Dairy Farms
+WI0065145,,,0241,Dairy Farms
+WI0065153,,,0241,Dairy Farms
+WI0065161,,,0241,Dairy Farms
+WI0065170,,,0241,Dairy Farms
+WI0065188,,,0241,Dairy Farms
+WI0065196,,,0241,Dairy Farms
+WI0065200,,,0273,Animal Aquaculture
+WI0065218,,,0241,Dairy Farms
+WI0065226,,,0241,Dairy Farms
+WI0065234,,,0241,Dairy Farms
+WI0065251,,,4952,Sewerage Systems
+WI0065269,,,2435,Hardwood Veneer And Plywood
+WI0065307,,,0213,Hogs
+WI0065323,,,0241,Dairy Farms
+WI0065340,,,0241,Dairy Farms
+WI0065358,,,4941,Water Supply
+WI0065366,,,4941,Water Supply
+WI0065412,,,0213,Hogs
+WI0065421,,,0241,Dairy Farms
+WI0065447,,,0241,Dairy Farms
+WI0065455,,,2023,"Dry, Condensed, Evaporated Products"
+WI0065463,,,0241,Dairy Farms
+WI0065471,,,2819,Industrial Inorganic Chemicals
+WI0065498,,,0241,Dairy Farms
+WI0065536,,,0211,Beef Cattle Feedlots
+WI0065552,,,0241,Dairy Farms
+WI0065579,,,2022,"Cheese, Natural And Processed"
+WI0065595,,,0213,Hogs
+WI0065609,,,0241,Dairy Farms
+WI0065633,,,0241,Dairy Farms
+WI0065641,,,0211,Beef Cattle Feedlots
+WI0065668,,,0241,Dairy Farms
+WI0065676,,,0241,Dairy Farms
+WI0065684,,,2819,Industrial Inorganic Chemicals
+WI0065692,,,0241,Dairy Farms
+WI0065706,,,0241,Dairy Farms
+WI0065722,,,0241,Dairy Farms
+WI0065731,,,0241,Dairy Farms
+WI0065757,,,2022,"Cheese, Natural And Processed"
+WI0065773,,,0241,Dairy Farms
+WI0065781,,,0241,Dairy Farms
+WI0065790,,,0241,Dairy Farms
+WI0065803,,,0241,Dairy Farms
+WI0065811,,,0241,Dairy Farms
+WI0065820,,,0241,Dairy Farms
+WI0065838,,,0241,Dairy Farms
+WI0065846,,,0241,Dairy Farms
+WI0065862,,,0241,Dairy Farms
+WI0065871,,,0241,Dairy Farms
+WI0065889,,,8999,Services
+WI0065919,,,0241,Dairy Farms
+WI0065927,,,0241,Dairy Farms
+WI0065943,,,2834,Pharmaceutical Preparations
+WI0065951,,,0241,Dairy Farms
+WI0065960,,,0241,Dairy Farms
+WI0065978,,,0241,Dairy Farms
+WI0065994,,,0241,Dairy Farms
+WI0066010,,,0241,Dairy Farms
+WI0066028,,,0241,Dairy Farms
+WI0066036,,,0241,Dairy Farms
+WI0066044,,,0241,Dairy Farms
+WI0066052,,,0241,Dairy Farms
+WI0066079,,,0241,Dairy Farms
+WI0066087,,,0241,Dairy Farms
+WI0066095,,,0241,Dairy Farms
+WI0066125,,,0241,Dairy Farms
+WI0066133,,,0241,Dairy Farms
+WI0066141,,,0213,Hogs
+WI0066150,,,0241,Dairy Farms
+WI0066184,,,0241,Dairy Farms
+WI0066192,,,0241,Dairy Farms
+WI0066206,,,0241,Dairy Farms
+WI0066214,,,0241,Dairy Farms
+WI0066231,,,0241,Dairy Farms
+WI0066265,,,0241,Dairy Farms
+WI0066281,,,0241,Dairy Farms
+WI0066338,,,0241,Dairy Farms
+WI0066346,,,0241,Dairy Farms
+WI0066354,,,0241,Dairy Farms
+WI0066371,,,2022,"Cheese, Natural And Processed"
+WI0066389,,,0241,Dairy Farms
+WI0066401,,,2869,Industrial Organic Chemicals
+WI0066419,,,0241,Dairy Farms
+WI0066443,,,0213,Hogs
+WI0066494,,,0241,Dairy Farms
+WI0069965,,,2086,Bottled And Canned Soft Drinks
+WI0070394,,,2022,"Cheese, Natural And Processed"
+WI0070408,,,2015,Poultry Slaughtering And Processing
+WI0070441,,,2033,Canned Fruits And Vegetables
+WI0070572,,,2022,"Cheese, Natural And Processed"
+WI0070581,,,2048,Prepared Feeds
+WI0070602,,,2022,"Cheese, Natural And Processed"
+WI0070611,,,2022,"Cheese, Natural And Processed"
+WI0070645,,,2022,"Cheese, Natural And Processed"
+WI0070661,,,2022,"Cheese, Natural And Processed"
+WI0070670,,,2022,"Cheese, Natural And Processed"
+WI0070726,,,4013,Switching And Terminal Services
+WI0070785,,,4911,Electric Services
+WI0071307,221320,Sewage Treatment Facilities,4952,Sewerage Systems
+WI0071315,221320,Sewage Treatment Facilities,4952,Sewerage Systems
+WI0071323,221320,Sewage Treatment Facilities,4952,Sewerage Systems
+WI0071501,221320,Sewage Treatment Facilities,4952,Sewerage Systems
+WI0073041,221320,Sewage Treatment Facilities,4952,Sewerage Systems
+WI0073059,221320,Sewage Treatment Facilities,4952,Sewerage Systems
+WI0073061,,,5015,"Motor Vehicle Parts, Used"
+WIL065251,,,4952,Sewerage Systems
+WINOEIA00,,,2434,Wood Kitchen Cabinets
+WINOEIA01,,,4581,"Airports, Flying Fields, & Services"
+WINOEIA02,,,3911,"Jewelry, Precious Metal"
+WINOEIA03,,,2759,Commercial Printing
+WINOEIA05,,,2759,Commercial Printing
+WIP000014,,,2671,"Paper Coated & Laminated, Packaging"
+WIP000033,,,3465,Automotive Stampings
+WIP000036,,,3479,Metal Coating And Allied Services
+WIP000037,,,2022,"Cheese, Natural And Processed"
+WIP000039,,,3471,Plating And Polishing
+WIP000040,,,2842,Polishes And Sanitation Goods
+WIP000041,,,2023,"Dry, Condensed, Evaporated Products"
+WIR05IA00,,,2421,"Sawmills And Planing Mills, General"
+WIR05IA01,,,1422,Crushed And Broken Limestone
+WIR05IA02,,,3272,Concrete Products
+WIR05IA03,,,4522,"Air Transportation, Nonscheduled"
+WIR05IA04,,,3444,Sheet Metal Work
+WIR05IA05,,,4311,U.S. Postal Service
+WIR05IA06,,,3441,Fabricated Structural Metal
+WIR05IA07,,,3554,Paper Industries Machinery
+WIR05IA08,,,4225,General Warehousing And Storage
+WIR05IA09,,,4215,"Courier Services, Except By Air"
+WIR05IA0A,,,3441,Fabricated Structural Metal
+WIR05IA0B,,,1422,Crushed And Broken Limestone
+WIR05IA0C,,,1422,Crushed And Broken Limestone
+WIR05IA0D,,,4512,"Air Transportation, Scheduled"
+WIR05IA0E,,,2099,Food Preparations
+WIR05IA0F,,,3273,Ready-Mixed Concrete
+WIR05IA0G,,,4512,"Air Transportation, Scheduled"
+WIR05IA0H,,,4512,"Air Transportation, Scheduled"
+WIS049018,,,4952,Sewerage Systems
+WIS049751,,,1522,Residential Construction
+WIU000001,,,4581,"Airports, Flying Fields, & Services"
+WIU000008,,,1522,Residential Construction
+WIU000012,,,4952,Sewerage Systems
+WIU000016,,,2022,"Cheese, Natural And Processed"
+WIU000022,,,4952,Sewerage Systems
+WIU000024,,,1611,Highway And Street Construction
+WIU000025,,,4952,Sewerage Systems
+WIU000026,,,4952,Sewerage Systems
+WIU000027,,,5032,"Brick, Stone, & Related Materials"
+WIU000030,,,1422,Crushed And Broken Limestone
